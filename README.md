@@ -1,1 +1,1 @@
-# rewards-converter
+# Credit Rewards Converter
